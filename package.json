@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mohamed-ezz1122.github.io/regency-f",
+  "homepage": "https://mohamed-ezz1122.github.io/Regency-f",
   "scripts": {
     "dev": "vite",
-    "predeploy":"npm run bulid",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
